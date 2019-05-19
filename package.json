@@ -1,0 +1,26 @@
+{
+  "name": "word-guess",
+  "version": "1.0.0",
+  "description": "A command line word guess game for the whole family.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgmoser1/constructor-word-guess.git"
+  },
+  "keywords": [
+    "word",
+    "guess"
+  ],
+  "author": "Megan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgmoser1/constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/mgmoser1/constructor-word-guess#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
